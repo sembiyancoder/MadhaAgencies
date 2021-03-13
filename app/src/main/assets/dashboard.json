@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Add Sales"
+  },
+  {
+    "id": 2,
+    "name": "Sales"
+  },
+  {
+    "id": 3,
+    "name": "Invoices"
+  },
+  {
+    "id": 4,
+    "name": "Deliveries"
+  },
+  {
+    "id": 5,
+    "name": "Purchase"
+  },
+  {
+    "id": 6,
+    "name": "Product"
+  },
+  {
+    "id": 7,
+    "name": "Customer"
+  }
+]
